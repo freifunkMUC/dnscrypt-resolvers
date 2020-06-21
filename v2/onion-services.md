@@ -18,7 +18,8 @@ To use that list, add this to the `[sources]` section of your
 
 --
 
-## Cloudflare
+
+## onion-cloudflare
 
 Cloudflare Onion Service
 
